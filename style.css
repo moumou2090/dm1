@@ -1,0 +1,14 @@
+.cart-item {
+  margin: 10px;
+  padding: 10px;
+  border: 1px solid #aaa;
+}
+
+.like-btn {
+  cursor: pointer;
+  font-size: 20px;
+}
+
+.like-btn.liked {
+  color: red;
+}
